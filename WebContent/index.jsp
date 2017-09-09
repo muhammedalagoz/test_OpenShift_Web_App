@@ -7,6 +7,6 @@
 <title>Hello World OpenShift</title>
 </head>
 <body>
- Hello World OpenShift
+ Hello World OpenShift Muhammed ALAGÖZ
 </body>
 </html>
